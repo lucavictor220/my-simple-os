@@ -1,1 +1,1 @@
-# my-simple-os
+# Simple OS
